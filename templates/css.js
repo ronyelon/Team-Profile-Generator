@@ -9,9 +9,9 @@ body {
     align-items: center;
 }
 .banner-bar {
-    background-color: rgba(53, 124, 109, 0.842);
+    background-color: #325270;
     width: 100%;
-    color: #ffffff;
+    color: #F2FBFC;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +36,7 @@ h2 {
     width: 250px;
     height: 34vh;
     margin-bottom: 5vh;
-    background-color: rgb(240, 238, 238);
+    background-color: #6CB1F0;
     box-shadow: 2px 5px 5px black;
     border-top-left-radius: 10px;
 }
@@ -49,8 +49,8 @@ h2 {
     width: 60vw;
 }
 .card-top {
-    background-color: rgb(228, 174, 76);
-    border: 2px solid rgb(228, 174, 76);
+    background-color: #72B9FC;
+    border: 2px solid #609DD6;
     width: 246px;
     border-top-left-radius: 10px;
 }
