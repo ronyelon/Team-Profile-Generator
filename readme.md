@@ -15,11 +15,17 @@
   ### Description
   The Team Profile Generator is a CLI application run in Node which requests information about members of an engineering team and creates an HTML file displaying the information. 
 
+
+
+
   ### Installation
   Prior to running the application you will need to run an NPM install to obtain the required dependencies
 
   ### Usage
   Use to track the personnel of your team
+
+
+  ![Mockup](https://github.com/ronyelon/Team-Profile-Generator/blob/master/assets/Capture.PNG)
 
   ### Contribution
   If you have any suggestions feel free to reach out!
