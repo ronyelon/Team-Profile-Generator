@@ -13,7 +13,7 @@ let finalTeamArray = [];
 function startingPrompt() {
     inquirer.prompt([
         {
-            message: "/////////Welcome to Team Generator 5000! Please write your team name://///////",
+            message: "This is the Team Profile Generator. What is your Team Name?",
             name: "teamname"
         }
     ])
@@ -140,7 +140,7 @@ function addIntern() {
 };
 
 function compileTeam() {
-    console.log("//////////You've done it!!! Now give your team a raise.////////")
+    console.log("All Set! Your Team Page has been created!")
 
     const htmlArray = []
     const htmlBeginning = `
